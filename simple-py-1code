@@ -1,0 +1,7 @@
+print("hellow word")
+d=5==5
+print(d)
+
+r=104
+n=type(r)
+print(n)
